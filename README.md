@@ -28,16 +28,14 @@
 **Instructor:** [Your Name]  
 **Email:** [your@email.com]  
 
-## 📖 Course Overview
-
+## Course Notes
 [Write what is different system of this course compare to others.]
 
 **Prerequisites:** [List any required knowledge or prior courses]  
 **Tools & Software:** [e.g., VS Code, Python 3.x, Git]  
 
----
 
-## 🚨 Rules & Academic Integrity
+## Expectations
 
 ### Attendance
 - Students are expected to attend **all class sessions**.
