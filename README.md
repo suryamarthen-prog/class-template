@@ -1,4 +1,4 @@
-# 📚 [Course Name]
+# [Course Name]
 > [Short description of the course — what students will learn and why it matters.]
 
 
@@ -11,7 +11,6 @@
 - [Grades](#grades)
 - [Books/Resources](#booksresources)
 - [Lectures](#lectures)
-- [Sections](#sections)
 - [Office Hours](#office-hours)
 - [Assignments](#assignments)
 - [Final Project](#final-project)
@@ -90,29 +89,23 @@ Outlined below is the course’s subject matter, organized by week, each subtitl
 ## Books/Resources
 [List all books/resources related to the course]
 
-## 🗓️ Weekly Schedule
 
-| Week | Topic                        | Notes              |
-|------|------------------------------|--------------------|
-| 1    | Introduction & Course Setup  |                    |
-| 2    | [Topic]                      |                    |
-| 3    | [Topic]                      |                    |
-| 4    | [Topic]                      |                    |
-| 5    | [Topic]                      |                    |
-| 6    | [Topic]                      |                    |
-| 7    | [Topic]                      |                    |
-| 8    | **Midterm Exam**             | 📝                 |
-| 9    | [Topic]                      |                    |
-| 10   | [Topic]                      |                    |
-| 11   | [Topic]                      |                    |
-| 12   | [Topic]                      |                    |
-| 13   | [Topic]                      |                    |
-| 14   | Project Presentations        | 🎤                 |
-| 15   | **Final Exam / Submission**  | 📝                 |
+## Lectures
 
----
+| Week | Lecture            |
+|------|--------------------|
+|  1   | [Assignment Name]  |
+|  2   | [Assignment Name]  |
+|  3   | [Assignment Name]  |
+|  4   | [Assignment Name]  |
+|  ... | Final Project      |
 
-## 📝 Assignments & Deadlines
+
+## Office Hours
+[Explain the technical to join office hours, it is encourage to have no sign up registration to the students. Lecturers can work together with course assistant]
+
+
+## Assignments
 
 | # | Assignment         | Release Date | Due Date   | Weight |
 |---|--------------------|--------------|------------|--------|
@@ -122,13 +115,8 @@ Outlined below is the course’s subject matter, organized by week, each subtitl
 | 4 | [Assignment Name]  | [Date]       | [Date]     | [X]%   |
 | 5 | Final Project      | [Date]       | [Date]     | [X]%   |
 
-> 💡 **Tip:** All assignments are submitted via **[Platform — e.g., Moodle / GitHub / Email]** unless stated otherwise.
+**Tip:** All assignments are submitted via **EMAS1/2/3** unless stated otherwise.
 
----
 
-## 📬 Contact
-
-For questions outside of office hours, email **[your@email.com]** with the subject line:  
-`[Course Name] - [Your Topic]`
-
-Expect a reply within **[X] business days**.
+## Final Project
+[Explain the topic of final project and encourage the student why they need to solve it. Also provide timeline in table format below]
