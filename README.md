@@ -1,7 +1,7 @@
-# [Course Name]
+# 📚 [Course Name]
+> [Short description of the course — what students will learn and why it matters.]
 ## Syllabus
 - [Instructor](#instructor)
-- [Description](#description)
 - [Course Notes](#course-notes)
 - [Expectations](#expectations)
 - [Learning Objectives](#learning-objectives)
@@ -12,11 +12,14 @@
 - [Sections](#sections)
 - [Office Hours](#office-hours)
 - [Problem Sets](#problem-sets)
+- [Checks for Understanding](#checks-for-understanding)
+- [Final Project](#final-project)
+- 
 
 
 
 
-> [Short description of the course — what students will learn and why it matters.]
+
 ---
 **Instructor:** [Your Name]
 **Email:** [your@email.com]
