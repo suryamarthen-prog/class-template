@@ -13,8 +13,7 @@
 - [Lectures](#lectures)
 - [Sections](#sections)
 - [Office Hours](#office-hours)
-- [Problem Sets](#problem-sets)
-- [Checks for Understanding](#checks-for-understanding)
+- [Assignments](#assignments)
 - [Final Project](#final-project)
 - [Lateness](#lateness)
   - [Extensions](#extensions)
@@ -36,6 +35,12 @@
 
 
 ## Expectations
+You are expected to:
+- attend all lectures,
+- solve all assignments,
+- submit ten checks for understanding, and
+- design and implement a final project.
+
 
 ### Attendance
 - Students are expected to attend **all class sessions**.
