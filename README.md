@@ -1,5 +1,7 @@
 # 📚 [Course Name]
 > [Short description of the course — what students will learn and why it matters.]
+
+
 ## Syllabus
 - [Instructor](#instructor)
 - [Course Notes](#course-notes)
@@ -21,17 +23,13 @@
   - [Reasonable](#reasonable)
   - [Not Reasonable](#not-reasonable)
 
+
 ## Instructor
-
-
-
-
----
 **Instructor:** [Your Name]
 **Email:** [your@email.com]
 **Office Hours:** [Day & Time] | [Location or Zoom Link]
 **Class Schedule:** [Day & Time] | [Room / Platform]
----
+
 ## 📖 Course Overview
 
 [Write 2–3 sentences about the course goals, topics covered, and what students will be able to do by the end.]
