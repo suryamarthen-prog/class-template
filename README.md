@@ -53,27 +53,39 @@
 
 
 ## Learning Objectives
+Through this course, you will learn to:
+- [list all objectives]
 
-## 📊 Grading Breakdown
+
+## Outline
+Outlined below is the course’s subject matter, organized by week, each subtitled per to the context in which its topics are introduced.
+
+
+## Grades
 
 | Component            | Weight |
 |----------------------|--------|
-| Assignments          | 30%    |
-| Midterm Exam         | 20%    |
-| Final Project        | 25%    |
-| Quizzes              | 15%    |
-| Participation        | 10%    |
-| **Total**            | **100%** |
+| Assignments          | [x%]   |
+| Midterm Exam         | [x%]   |
+| Final Project        | [x%]   |
+| Quizzes              | [x%]   |
+| Participation        | [x%]  |
+| **Total**            | **[x%]** |
 
 ### Grade Scale
 
-| Grade | Range     |
-|-------|-----------|
-| A     | 90 – 100% |
-| B     | 80 – 89%  |
-| C     | 70 – 79%  |
-| D     | 60 – 69%  |
-| F     | Below 60% |
+| Grade | Range     | Weight  |
+|-------|-----------|---------|
+| A     | 81 – 100  | 4       |
+| A-    | 78 – 80,99|
+| B+    | 75 – 77,99|
+| B     | 60 – 69%  |
+| B-    | Below 60% |
+| C+    | Below 60% |
+| C     | Below 60% |
+| D     | Below 60% |
+| E     | Below 60% |
+
 
 ---
 
