@@ -14,8 +14,14 @@
 - [Problem Sets](#problem-sets)
 - [Checks for Understanding](#checks-for-understanding)
 - [Final Project](#final-project)
-- 
+- [Lateness](#lateness)
+  - [Extensions](#extensions)
+- [Mental Health](#mental-health)
+- [Academic Honesty](#academic-honesty)
+  - [Reasonable](#reasonable)
+  - [Not Reasonable](#not-reasonable)
 
+## Instructor
 
 
 
