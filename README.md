@@ -123,3 +123,18 @@ Outlined below is the course’s subject matter, organized by week, each subtitl
 
 
 ## Lateness
+[Insert lateness policy where there is any grace period or not or no acceptance after deadline]
+
+### Extensions
+Extensions beyond this lateness policy are not ordinarily granted.
+
+Exceptions will only be considered if requested. The only individuals authorized to grant extensions are the course’s heads. Please be sure to include any relevant documentation in your request.
+
+
+## Mental Health
+If you experience significant stress or worry, changes in mood, or problems eating or sleeping this semester, whether because of CS50 or other courses or factors, please do not hesitate to reach out immediately, at any hour, to any of the course’s heads to discuss. Everyone can benefit from support during challenging times. Not only are we happy to listen and make accommodations with deadlines as needed, we can also refer you to additional support structures on campus, including, but not limited to, the below.
+
+[add list of mental health support from campus]
+
+
+## Academic Honesty
