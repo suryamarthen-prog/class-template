@@ -1,24 +1,28 @@
-# 📚 [Course Name]
+# [Course Name]
+## Syllabus
+- [Instructor](#instructor)
+- [Description](#description)
+- [Course Notes](#course-notes)
+- [Expectations](#expectations)
+- [Learning Objectives](#learning-objectives)
+- [Outline](#outline)
+- [Grades](#grades)
+- [Books](#books)
+- [Lectures](#lectures)
+- [Sections](#sections)
+- [Office Hours](#office-hours)
+- [Problem Sets](#problem-sets)
+
+
+
 
 > [Short description of the course — what students will learn and why it matters.]
-
-**Instructor:** [Your Name]  
-**Email:** [your@email.com]  
-**Office Hours:** [Day & Time] | [Location or Zoom Link]  
-**Class Schedule:** [Day & Time] | [Room / Platform]  
-
 ---
-
-## 📋 Table of Contents
-
-- [Course Overview](#-course-overview)
-- [Rules & Academic Integrity](#-rules--academic-integrity)
-- [Grading Breakdown](#-grading-breakdown)
-- [Weekly Schedule](#-weekly-schedule)
-- [Assignments & Deadlines](#-assignments--deadlines)
-
+**Instructor:** [Your Name]
+**Email:** [your@email.com]
+**Office Hours:** [Day & Time] | [Location or Zoom Link]
+**Class Schedule:** [Day & Time] | [Room / Platform]
 ---
-
 ## 📖 Course Overview
 
 [Write 2–3 sentences about the course goals, topics covered, and what students will be able to do by the end.]
