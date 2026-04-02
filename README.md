@@ -38,8 +38,7 @@
 You are expected to:
 - attend all lectures,
 - solve all assignments,
-- submit ten checks for understanding, and
-- design and implement a final project.
+- finish a final project.
 
 
 ### Attendance
@@ -129,7 +128,3 @@ For questions outside of office hours, email **[your@email.com]** with the subje
 `[Course Name] - [Your Topic]`
 
 Expect a reply within **[X] business days**.
-
----
-
-*Last updated: April 2026*
