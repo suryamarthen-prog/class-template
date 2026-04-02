@@ -120,3 +120,6 @@ Outlined below is the course’s subject matter, organized by week, each subtitl
 
 ## Final Project
 [Explain the topic of final project and encourage the student why they need to solve it. Also provide timeline in table format below]
+
+
+## Lateness
