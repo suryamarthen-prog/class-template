@@ -9,7 +9,7 @@
 - [Learning Objectives](#learning-objectives)
 - [Outline](#outline)
 - [Grades](#grades)
-- [Books/Resources](#books/resources)
+- [Books/Resources](#booksresources)
 - [Lectures](#lectures)
 - [Sections](#sections)
 - [Office Hours](#office-hours)
