@@ -27,6 +27,7 @@
 **Instructor:** [Your Name]  
 **Email:** [your@email.com]  
 
+
 ## Course Notes
 [Write what is different system of this course compare to others.]
 
@@ -35,33 +36,23 @@
 
 
 ## Expectations
-You are expected to:
-- attend all lectures,
-- solve all assignments,
-- finish a final project.
-
-
 ### Attendance
-- Students are expected to attend **all class sessions**.
-- More than **[X] unexcused absences** may result in a grade reduction.
-- Notify the instructor **in advance** if you cannot attend.
+- You are expected to attend **all class sessions** and
+- notify the instructor **in advance** if you cannot attend.
 
 ### Classroom Conduct
-- Be respectful to the instructor and fellow students at all times.
-- Phones must be **silenced** during class.
-- Laptops may only be used for **class-related activities**.
+- Be respectful to the instructor and fellow students at all times,
+- phones must be **silenced** during class, and
+- laptops may only be used for **class-related activities**.
 
 ### Academic Integrity
-- All submitted work must be **your own**.
-- **Plagiarism or cheating** of any kind will result in a grade of 0 for the assignment and may be reported to the university.
-- Collaboration is encouraged for learning, but **submitted work must be written independently** unless stated otherwise.
-- Proper citation is required for any referenced material.
+- You are expected to solve all assignments and the work must be **your own**,
+- **plagiarism or cheating** of any kind will result in a grade of 0 for the assignment and may be reported to the university,
+- collaboration is encouraged for learning, but **submitted work must be written independently** unless stated otherwise (check [Academic Honesty](#academic-honesty) for more details), and
+- proper citation is required for any referenced material.
 
-### Late Work Policy
-- Assignments submitted late will be penalized **[X]% per day**.
-- No submissions will be accepted **more than [X] days** after the deadline without prior approval.
 
----
+## 
 
 ## 📊 Grading Breakdown
 
