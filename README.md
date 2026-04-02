@@ -52,7 +52,7 @@
 - proper citation is required for any referenced material.
 
 
-## 
+## Learning Objectives
 
 ## 📊 Grading Breakdown
 
