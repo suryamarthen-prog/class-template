@@ -9,7 +9,7 @@
 - [Learning Objectives](#learning-objectives)
 - [Outline](#outline)
 - [Grades](#grades)
-- [Books](#books)
+- [Books/Resources](#books/resources)
 - [Lectures](#lectures)
 - [Sections](#sections)
 - [Office Hours](#office-hours)
@@ -77,17 +77,18 @@ Outlined below is the course’s subject matter, organized by week, each subtitl
 | Grade | Min | Max   | Weight |
 |-------|-----|-------|--------|
 | A     | 85  | 100   | 4      |
-| A-    | 80  | 84,99 |
-| B+    | 75  |
-| B     | 70  |
-| B-    | 65  |
-| C+    | 
-| C     | Below 60% |
-| D     | Below 60% |
-| E     | Below 60% |
+| A-    | 80  | 84,99 | 3,7    |
+| B+    | 75  | 79,99 | 3,3    |
+| B     | 70  | 74,99 | 3      |
+| B-    | 65  | 69,99 | 2,7    |
+| C+    | 60  | 64,99 | 2,3    |
+| C     | 55  | 59,99 | 2      |
+| D     | 40  | 54,99 | 1      |
+| E     | 0   | 39,99 | 0      |
 
 
----
+## Books/Resources
+[List all books/resources related to the course]
 
 ## 🗓️ Weekly Schedule
 
