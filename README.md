@@ -25,14 +25,12 @@
 
 
 ## Instructor
-**Instructor:** [Your Name]
-**Email:** [your@email.com]
-**Office Hours:** [Day & Time] | [Location or Zoom Link]
-**Class Schedule:** [Day & Time] | [Room / Platform]
+**Instructor:** [Your Name]  
+**Email:** [your@email.com]  
 
 ## 📖 Course Overview
 
-[Write 2–3 sentences about the course goals, topics covered, and what students will be able to do by the end.]
+[Write what is different system of this course compare to others.]
 
 **Prerequisites:** [List any required knowledge or prior courses]  
 **Tools & Software:** [e.g., VS Code, Python 3.x, Git]  
