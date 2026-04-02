@@ -74,14 +74,14 @@ Outlined below is the course’s subject matter, organized by week, each subtitl
 
 ### Grade Scale
 
-| Grade | Range     | Weight  |
-|-------|-----------|---------|
-| A     | 81 – 100  | 4       |
-| A-    | 78 – 80,99|
-| B+    | 75 – 77,99|
-| B     | 60 – 69%  |
-| B-    | Below 60% |
-| C+    | Below 60% |
+| Grade | Min | Max   | Weight |
+|-------|-----|-------|--------|
+| A     | 85  | 100   | 4      |
+| A-    | 80  | 84,99 |
+| B+    | 75  |
+| B     | 70  |
+| B-    | 65  |
+| C+    | 
 | C     | Below 60% |
 | D     | Below 60% |
 | E     | Below 60% |
