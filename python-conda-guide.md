@@ -409,7 +409,6 @@ Almost always, VS Code is pointed at the wrong Python. Use *Python: Select Inter
 **Q: What's the difference between a `.py` file and a `.ipynb` notebook?**
 A `.py` file is a plain script — it runs top to bottom all at once. A `.ipynb` notebook is made of cells you run one at a time, with output shown right below each cell. Notebooks are great for learning, experimenting, and data work; scripts are better for finished programs you run repeatedly.
 
----
 
 ## Quick Command Cheat Sheet
 
